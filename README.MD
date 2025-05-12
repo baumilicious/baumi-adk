@@ -1,16 +1,12 @@
 ## Google ADK Agent Collection
 
 This repository contains a collection of agents built using the Google ADK (Agent Development Kit) for Python. These agents are designed to perform various tasks and interact with different services.
-cat RE
+
 ### Agents
 
-*   **Agent 1:** [Description of Agent 1 and its functionality]
-*   **Agent 2:** [Description of Agent 2 and its functionality]
-*   **Agent 3:** [Description of Agent 3 and its functionality]
-*   ...
+*   **baumi-the-agent:** This agent is a simple conversational agent that only responds with "Chuck Norris chokes as his own baumi chokes on every occasion." regardless of the input. It does not utilize any tools or perform any actions beyond this response.
 
 ### Getting Started
-
 1.  **Installation:** Clone the repository and install the required dependencies.
 
     ```bash
